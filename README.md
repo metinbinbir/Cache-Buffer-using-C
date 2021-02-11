@@ -29,6 +29,6 @@ Simple cache buffer design with double linked list data structure using C progra
 ![4](https://user-images.githubusercontent.com/64909109/107590070-5bcb5800-6c18-11eb-8587-afa60da77bd4.png)<br>
 
  <b>SCREENSHOTS</b><br><br>
-![1](https://user-images.githubusercontent.com/64909109/107590073-5cfc8500-6c18-11eb-935d-a177873897e7.PNG)<br>
-![2](https://user-images.githubusercontent.com/64909109/107590077-5d951b80-6c18-11eb-9d73-dc4101c1ff60.PNG)<br>
+![1](https://user-images.githubusercontent.com/64909109/107590073-5cfc8500-6c18-11eb-935d-a177873897e7.PNG)<br><br>
+![2](https://user-images.githubusercontent.com/64909109/107590077-5d951b80-6c18-11eb-9d73-dc4101c1ff60.PNG)<br><br>
 ![3](https://user-images.githubusercontent.com/64909109/107590080-5d951b80-6c18-11eb-905d-138c77e886ec.PNG)
